@@ -1,0 +1,395 @@
+ 04-11-2025 15:29:03:635 [pid=42779 tid=42779] ERROR  0:140 unable to load,  liburcu-bp.so.6 
+
+ 04-11-2025 15:29:03:635 [pid=42779 tid=42779] ERROR  0:140 unable to load,  liburcu-bp.so.1 
+
+ 04-11-2025 15:29:03:779 [pid=42779 tid=42779] WARN   0:169 failed to open /proc/driver/nvidia-fs/devcount  error: No such file or directory
+ 04-11-2025 15:29:03:779 [pid=42779 tid=42779] NOTICE  cufio-drv:830 running in compatible mode
+ 04-11-2025 15:29:03:975 [pid=42779 tid=42779] ERROR  cufio-fs:79 mount option not found in mount table data device: /dev/nvme0n1p2
+ 04-11-2025 15:30:06:539 [pid=42905 tid=42905] ERROR  0:140 unable to load,  liburcu-bp.so.6 
+
+ 04-11-2025 15:30:06:539 [pid=42905 tid=42905] ERROR  0:140 unable to load,  liburcu-bp.so.1 
+
+ 04-11-2025 15:30:06:697 [pid=42905 tid=42905] WARN   0:169 failed to open /proc/driver/nvidia-fs/devcount  error: No such file or directory
+ 04-11-2025 15:30:06:697 [pid=42905 tid=42905] NOTICE  cufio-drv:830 running in compatible mode
+ 04-11-2025 15:30:06:866 [pid=42905 tid=42905] ERROR  cufio-fs:79 mount option not found in mount table data device: /dev/nvme0n1p2
+ 04-11-2025 16:18:36:114 [pid=46505 tid=46505] ERROR  0:140 unable to load,  liburcu-bp.so.6 
+
+ 04-11-2025 16:18:36:114 [pid=46505 tid=46505] ERROR  0:140 unable to load,  liburcu-bp.so.1 
+
+ 04-11-2025 16:18:36:267 [pid=46505 tid=46505] WARN   0:169 failed to open /proc/driver/nvidia-fs/devcount  error: No such file or directory
+ 04-11-2025 16:18:36:267 [pid=46505 tid=46505] NOTICE  cufio-drv:830 running in compatible mode
+ 04-11-2025 16:18:36:449 [pid=46505 tid=46505] ERROR  cufio-fs:79 mount option not found in mount table data device: /dev/nvme0n1p2
+ 04-11-2025 16:32:44:623 [pid=46844 tid=46844] ERROR  0:140 unable to load,  liburcu-bp.so.6 
+
+ 04-11-2025 16:32:44:623 [pid=46844 tid=46844] ERROR  0:140 unable to load,  liburcu-bp.so.1 
+
+ 04-11-2025 16:32:44:780 [pid=46844 tid=46844] WARN   0:169 failed to open /proc/driver/nvidia-fs/devcount  error: No such file or directory
+ 04-11-2025 16:32:44:780 [pid=46844 tid=46844] NOTICE  cufio-drv:830 running in compatible mode
+ 04-11-2025 16:32:44:948 [pid=46844 tid=46844] ERROR  cufio-fs:79 mount option not found in mount table data device: /dev/nvme0n1p2
+ 04-11-2025 16:42:55:543 [pid=47155 tid=47155] ERROR  0:140 unable to load,  liburcu-bp.so.6 
+
+ 04-11-2025 16:42:55:543 [pid=47155 tid=47155] ERROR  0:140 unable to load,  liburcu-bp.so.1 
+
+ 04-11-2025 16:42:55:708 [pid=47155 tid=47155] WARN   0:169 failed to open /proc/driver/nvidia-fs/devcount  error: No such file or directory
+ 04-11-2025 16:42:55:708 [pid=47155 tid=47155] NOTICE  cufio-drv:830 running in compatible mode
+ 04-11-2025 16:42:55:887 [pid=47155 tid=47155] ERROR  cufio-fs:79 mount option not found in mount table data device: /dev/nvme0n1p2
+ 04-11-2025 16:46:43:592 [pid=46844 tid=46844] WARN   cufio-px:52 cuStreamDestroy error for posix buffer error num:  4 error:  cuda error: CUDA_ERROR_DEINITIALIZED
+ 04-11-2025 16:46:43:593 [pid=46844 tid=46844] WARN   cufio-px:60 cuMemHostUnregister called for shadow buffer: 0x7ef73c005000 nvbuf: 0x7ef73c004470 status: 4 error: cuda error: CUDA_ERROR_DEINITIALIZED
+ 04-11-2025 16:46:43:593 [pid=46844 tid=46844] WARN   cufio-px:52 cuStreamDestroy error for posix buffer error num:  4 error:  cuda error: CUDA_ERROR_DEINITIALIZED
+ 04-11-2025 16:46:43:593 [pid=46844 tid=46844] WARN   cufio-px:60 cuMemHostUnregister called for shadow buffer: 0x7ef75805a000 nvbuf: 0x7ef758004470 status: 4 error: cuda error: CUDA_ERROR_DEINITIALIZED
+ 04-11-2025 16:46:43:593 [pid=46844 tid=46844] WARN   cufio-px:52 cuStreamDestroy error for posix buffer error num:  4 error:  cuda error: CUDA_ERROR_DEINITIALIZED
+ 04-11-2025 16:46:43:593 [pid=46844 tid=46844] WARN   cufio-px:60 cuMemHostUnregister called for shadow buffer: 0x7ef784014000 nvbuf: 0x7ef784006570 status: 4 error: cuda error: CUDA_ERROR_DEINITIALIZED
+ 04-11-2025 16:46:43:593 [pid=46844 tid=46844] WARN   cufio-px:52 cuStreamDestroy error for posix buffer error num:  4 error:  cuda error: CUDA_ERROR_DEINITIALIZED
+ 04-11-2025 16:46:43:593 [pid=46844 tid=46844] WARN   cufio-px:60 cuMemHostUnregister called for shadow buffer: 0x7ef750005000 nvbuf: 0x7ef750004470 status: 4 error: cuda error: CUDA_ERROR_DEINITIALIZED
+ 04-11-2025 16:47:09:90 [pid=47360 tid=47360] ERROR  0:140 unable to load,  liburcu-bp.so.6 
+
+ 04-11-2025 16:47:09:90 [pid=47360 tid=47360] ERROR  0:140 unable to load,  liburcu-bp.so.1 
+
+ 04-11-2025 16:47:09:253 [pid=47360 tid=47360] WARN   0:169 failed to open /proc/driver/nvidia-fs/devcount  error: No such file or directory
+ 04-11-2025 16:47:09:253 [pid=47360 tid=47360] NOTICE  cufio-drv:830 running in compatible mode
+ 04-11-2025 16:47:09:435 [pid=47360 tid=47360] ERROR  cufio-fs:79 mount option not found in mount table data device: /dev/nvme0n1p2
+ 04-11-2025 17:32:19:603 [pid=47360 tid=47360] WARN   cufio-px:52 cuStreamDestroy error for posix buffer error num:  4 error:  cuda error: CUDA_ERROR_DEINITIALIZED
+ 04-11-2025 17:32:19:603 [pid=47360 tid=47360] WARN   cufio-px:60 cuMemHostUnregister called for shadow buffer: 0x7f0c8005a000 nvbuf: 0x7f0c800044a0 status: 4 error: cuda error: CUDA_ERROR_DEINITIALIZED
+ 04-11-2025 17:32:19:603 [pid=47360 tid=47360] WARN   cufio-px:52 cuStreamDestroy error for posix buffer error num:  4 error:  cuda error: CUDA_ERROR_DEINITIALIZED
+ 04-11-2025 17:32:19:603 [pid=47360 tid=47360] WARN   cufio-px:60 cuMemHostUnregister called for shadow buffer: 0x7f0c48005000 nvbuf: 0x7f0c48004470 status: 4 error: cuda error: CUDA_ERROR_DEINITIALIZED
+ 04-11-2025 17:32:19:603 [pid=47360 tid=47360] WARN   cufio-px:52 cuStreamDestroy error for posix buffer error num:  4 error:  cuda error: CUDA_ERROR_DEINITIALIZED
+ 04-11-2025 17:32:19:603 [pid=47360 tid=47360] WARN   cufio-px:60 cuMemHostUnregister called for shadow buffer: 0x7f0c40014000 nvbuf: 0x7f0c40006540 status: 4 error: cuda error: CUDA_ERROR_DEINITIALIZED
+ 04-11-2025 17:32:19:603 [pid=47360 tid=47360] WARN   cufio-px:52 cuStreamDestroy error for posix buffer error num:  4 error:  cuda error: CUDA_ERROR_DEINITIALIZED
+ 04-11-2025 17:32:19:603 [pid=47360 tid=47360] WARN   cufio-px:60 cuMemHostUnregister called for shadow buffer: 0x7f0c4c005000 nvbuf: 0x7f0c4c004470 status: 4 error: cuda error: CUDA_ERROR_DEINITIALIZED
+ 04-11-2025 17:32:19:803 [pid=42905 tid=42905] WARN   cufio-px:52 cuStreamDestroy error for posix buffer error num:  4 error:  cuda error: CUDA_ERROR_DEINITIALIZED
+ 04-11-2025 17:32:19:803 [pid=42905 tid=42905] WARN   cufio-px:60 cuMemHostUnregister called for shadow buffer: 0x7f129c05a000 nvbuf: 0x7f129c004470 status: 4 error: cuda error: CUDA_ERROR_DEINITIALIZED
+ 04-11-2025 17:32:19:803 [pid=42905 tid=42905] WARN   cufio-px:52 cuStreamDestroy error for posix buffer error num:  4 error:  cuda error: CUDA_ERROR_DEINITIALIZED
+ 04-11-2025 17:32:19:803 [pid=42905 tid=42905] WARN   cufio-px:60 cuMemHostUnregister called for shadow buffer: 0x7f12b0007000 nvbuf: 0x7f12b0006540 status: 4 error: cuda error: CUDA_ERROR_DEINITIALIZED
+ 04-11-2025 17:32:19:803 [pid=42905 tid=42905] WARN   cufio-px:52 cuStreamDestroy error for posix buffer error num:  4 error:  cuda error: CUDA_ERROR_DEINITIALIZED
+ 04-11-2025 17:32:19:803 [pid=42905 tid=42905] WARN   cufio-px:60 cuMemHostUnregister called for shadow buffer: 0x7f12dc012000 nvbuf: 0x7f12dc0044a0 status: 4 error: cuda error: CUDA_ERROR_DEINITIALIZED
+ 04-11-2025 17:32:19:803 [pid=42905 tid=42905] WARN   cufio-px:52 cuStreamDestroy error for posix buffer error num:  4 error:  cuda error: CUDA_ERROR_DEINITIALIZED
+ 04-11-2025 17:32:19:803 [pid=42905 tid=42905] WARN   cufio-px:60 cuMemHostUnregister called for shadow buffer: 0x7f12a0005000 nvbuf: 0x7f12a0004470 status: 4 error: cuda error: CUDA_ERROR_DEINITIALIZED
+ 04-11-2025 17:36:01:370 [pid=53173 tid=53173] ERROR  0:140 unable to load,  liburcu-bp.so.6 
+
+ 04-11-2025 17:36:01:370 [pid=53173 tid=53173] ERROR  0:140 unable to load,  liburcu-bp.so.1 
+
+ 04-11-2025 17:36:01:522 [pid=53173 tid=53173] WARN   0:169 failed to open /proc/driver/nvidia-fs/devcount  error: No such file or directory
+ 04-11-2025 17:36:01:522 [pid=53173 tid=53173] NOTICE  cufio-drv:830 running in compatible mode
+ 04-11-2025 17:36:01:704 [pid=53173 tid=53173] ERROR  cufio-fs:79 mount option not found in mount table data device: /dev/nvme0n1p2
+ 04-11-2025 17:37:23:714 [pid=53175 tid=53175] ERROR  0:140 unable to load,  liburcu-bp.so.6 
+
+ 04-11-2025 17:37:23:714 [pid=53175 tid=53175] ERROR  0:140 unable to load,  liburcu-bp.so.1 
+
+ 04-11-2025 17:37:23:862 [pid=53175 tid=53175] WARN   0:169 failed to open /proc/driver/nvidia-fs/devcount  error: No such file or directory
+ 04-11-2025 17:37:23:862 [pid=53175 tid=53175] NOTICE  cufio-drv:830 running in compatible mode
+ 04-11-2025 17:37:24:30 [pid=53175 tid=53175] ERROR  cufio-fs:79 mount option not found in mount table data device: /dev/nvme0n1p2
+ 04-11-2025 18:18:17:929 [pid=53175 tid=53175] WARN   cufio-px:52 cuStreamDestroy error for posix buffer error num:  4 error:  cuda error: CUDA_ERROR_DEINITIALIZED
+ 04-11-2025 18:18:17:929 [pid=53175 tid=53175] WARN   cufio-px:60 cuMemHostUnregister called for shadow buffer: 0x7f078405a000 nvbuf: 0x7f07840044a0 status: 4 error: cuda error: CUDA_ERROR_DEINITIALIZED
+ 04-11-2025 18:18:17:929 [pid=53175 tid=53175] WARN   cufio-px:52 cuStreamDestroy error for posix buffer error num:  4 error:  cuda error: CUDA_ERROR_DEINITIALIZED
+ 04-11-2025 18:18:17:929 [pid=53175 tid=53175] WARN   cufio-px:60 cuMemHostUnregister called for shadow buffer: 0x7f0748005000 nvbuf: 0x7f0748004470 status: 4 error: cuda error: CUDA_ERROR_DEINITIALIZED
+ 04-11-2025 18:18:17:929 [pid=53175 tid=53175] WARN   cufio-px:52 cuStreamDestroy error for posix buffer error num:  4 error:  cuda error: CUDA_ERROR_DEINITIALIZED
+ 04-11-2025 18:18:17:929 [pid=53175 tid=53175] WARN   cufio-px:60 cuMemHostUnregister called for shadow buffer: 0x7f0744012000 nvbuf: 0x7f0744004470 status: 4 error: cuda error: CUDA_ERROR_DEINITIALIZED
+ 04-11-2025 18:18:17:929 [pid=53175 tid=53175] WARN   cufio-px:52 cuStreamDestroy error for posix buffer error num:  4 error:  cuda error: CUDA_ERROR_DEINITIALIZED
+ 04-11-2025 18:18:17:929 [pid=53175 tid=53175] WARN   cufio-px:60 cuMemHostUnregister called for shadow buffer: 0x7f0740007000 nvbuf: 0x7f0740006540 status: 4 error: cuda error: CUDA_ERROR_DEINITIALIZED
+ 04-11-2025 18:20:13:854 [pid=54882 tid=54882] ERROR  0:140 unable to load,  liburcu-bp.so.6 
+
+ 04-11-2025 18:20:13:854 [pid=54882 tid=54882] ERROR  0:140 unable to load,  liburcu-bp.so.1 
+
+ 04-11-2025 18:20:14:3 [pid=54882 tid=54882] WARN   0:169 failed to open /proc/driver/nvidia-fs/devcount  error: No such file or directory
+ 04-11-2025 18:20:14:3 [pid=54882 tid=54882] NOTICE  cufio-drv:830 running in compatible mode
+ 04-11-2025 18:20:14:174 [pid=54882 tid=54882] ERROR  cufio-fs:79 mount option not found in mount table data device: /dev/nvme0n1p2
+ 04-11-2025 19:40:51:996 [pid=54882 tid=54882] WARN   cufio-px:52 cuStreamDestroy error for posix buffer error num:  4 error:  cuda error: CUDA_ERROR_DEINITIALIZED
+ 04-11-2025 19:40:51:996 [pid=54882 tid=54882] WARN   cufio-px:60 cuMemHostUnregister called for shadow buffer: 0x7f1c2c05a000 nvbuf: 0x7f1c2c004470 status: 4 error: cuda error: CUDA_ERROR_DEINITIALIZED
+ 04-11-2025 19:40:51:996 [pid=54882 tid=54882] WARN   cufio-px:52 cuStreamDestroy error for posix buffer error num:  4 error:  cuda error: CUDA_ERROR_DEINITIALIZED
+ 04-11-2025 19:40:51:996 [pid=54882 tid=54882] WARN   cufio-px:60 cuMemHostUnregister called for shadow buffer: 0x7f1c28005000 nvbuf: 0x7f1c28004470 status: 4 error: cuda error: CUDA_ERROR_DEINITIALIZED
+ 04-11-2025 19:40:51:996 [pid=54882 tid=54882] WARN   cufio-px:52 cuStreamDestroy error for posix buffer error num:  4 error:  cuda error: CUDA_ERROR_DEINITIALIZED
+ 04-11-2025 19:40:51:996 [pid=54882 tid=54882] WARN   cufio-px:60 cuMemHostUnregister called for shadow buffer: 0x7f1c68012000 nvbuf: 0x7f1c680044a0 status: 4 error: cuda error: CUDA_ERROR_DEINITIALIZED
+ 04-11-2025 19:40:51:996 [pid=54882 tid=54882] WARN   cufio-px:52 cuStreamDestroy error for posix buffer error num:  4 error:  cuda error: CUDA_ERROR_DEINITIALIZED
+ 04-11-2025 19:40:51:996 [pid=54882 tid=54882] WARN   cufio-px:60 cuMemHostUnregister called for shadow buffer: 0x7f1c38007000 nvbuf: 0x7f1c38006540 status: 4 error: cuda error: CUDA_ERROR_DEINITIALIZED
+ 05-11-2025 17:44:29:3 [pid=6287 tid=6287] ERROR  0:140 unable to load,  liburcu-bp.so.6 
+
+ 05-11-2025 17:44:29:3 [pid=6287 tid=6287] ERROR  0:140 unable to load,  liburcu-bp.so.1 
+
+ 05-11-2025 17:44:29:157 [pid=6287 tid=6287] WARN   0:169 failed to open /proc/driver/nvidia-fs/devcount  error: No such file or directory
+ 05-11-2025 17:44:29:157 [pid=6287 tid=6287] NOTICE  cufio-drv:830 running in compatible mode
+ 05-11-2025 17:44:29:332 [pid=6287 tid=6287] ERROR  cufio-fs:79 mount option not found in mount table data device: /dev/nvme0n1p2
+ 05-11-2025 17:46:41:331 [pid=6385 tid=6385] ERROR  0:140 unable to load,  liburcu-bp.so.6 
+
+ 05-11-2025 17:46:41:331 [pid=6385 tid=6385] ERROR  0:140 unable to load,  liburcu-bp.so.1 
+
+ 05-11-2025 17:46:41:475 [pid=6385 tid=6385] WARN   0:169 failed to open /proc/driver/nvidia-fs/devcount  error: No such file or directory
+ 05-11-2025 17:46:41:475 [pid=6385 tid=6385] NOTICE  cufio-drv:830 running in compatible mode
+ 05-11-2025 17:46:41:620 [pid=6385 tid=6385] ERROR  cufio-fs:79 mount option not found in mount table data device: /dev/nvme0n1p2
+ 05-11-2025 18:11:58:822 [pid=6385 tid=6385] WARN   cufio-px:52 cuStreamDestroy error for posix buffer error num:  4 error:  cuda error: CUDA_ERROR_DEINITIALIZED
+ 05-11-2025 18:11:58:822 [pid=6385 tid=6385] WARN   cufio-px:60 cuMemHostUnregister called for shadow buffer: 0x7ef4d805a000 nvbuf: 0x7ef4d80044a0 status: 4 error: cuda error: CUDA_ERROR_DEINITIALIZED
+ 05-11-2025 18:11:58:822 [pid=6385 tid=6385] WARN   cufio-px:52 cuStreamDestroy error for posix buffer error num:  4 error:  cuda error: CUDA_ERROR_DEINITIALIZED
+ 05-11-2025 18:11:58:822 [pid=6385 tid=6385] WARN   cufio-px:60 cuMemHostUnregister called for shadow buffer: 0x7ef4a4005000 nvbuf: 0x7ef4a4004470 status: 4 error: cuda error: CUDA_ERROR_DEINITIALIZED
+ 05-11-2025 18:11:58:822 [pid=6385 tid=6385] WARN   cufio-px:52 cuStreamDestroy error for posix buffer error num:  4 error:  cuda error: CUDA_ERROR_DEINITIALIZED
+ 05-11-2025 18:11:58:822 [pid=6385 tid=6385] WARN   cufio-px:60 cuMemHostUnregister called for shadow buffer: 0x7ef49c005000 nvbuf: 0x7ef49c004470 status: 4 error: cuda error: CUDA_ERROR_DEINITIALIZED
+ 05-11-2025 18:11:58:822 [pid=6385 tid=6385] WARN   cufio-px:52 cuStreamDestroy error for posix buffer error num:  4 error:  cuda error: CUDA_ERROR_DEINITIALIZED
+ 05-11-2025 18:11:58:822 [pid=6385 tid=6385] WARN   cufio-px:60 cuMemHostUnregister called for shadow buffer: 0x7ef4a0014000 nvbuf: 0x7ef4a0006540 status: 4 error: cuda error: CUDA_ERROR_DEINITIALIZED
+ 05-11-2025 18:18:50:629 [pid=7348 tid=7348] ERROR  0:140 unable to load,  liburcu-bp.so.6 
+
+ 05-11-2025 18:18:50:629 [pid=7348 tid=7348] ERROR  0:140 unable to load,  liburcu-bp.so.1 
+
+ 05-11-2025 18:18:50:770 [pid=7348 tid=7348] WARN   0:169 failed to open /proc/driver/nvidia-fs/devcount  error: No such file or directory
+ 05-11-2025 18:18:50:770 [pid=7348 tid=7348] NOTICE  cufio-drv:830 running in compatible mode
+ 05-11-2025 18:18:50:918 [pid=7348 tid=7348] ERROR  cufio-fs:79 mount option not found in mount table data device: /dev/nvme0n1p2
+ 05-11-2025 18:25:52:625 [pid=7348 tid=7348] WARN   cufio-px:52 cuStreamDestroy error for posix buffer error num:  4 error:  cuda error: CUDA_ERROR_DEINITIALIZED
+ 05-11-2025 18:25:52:625 [pid=7348 tid=7348] WARN   cufio-px:60 cuMemHostUnregister called for shadow buffer: 0x78fc8c05a000 nvbuf: 0x78fc8c004470 status: 4 error: cuda error: CUDA_ERROR_DEINITIALIZED
+ 05-11-2025 18:25:52:625 [pid=7348 tid=7348] WARN   cufio-px:52 cuStreamDestroy error for posix buffer error num:  4 error:  cuda error: CUDA_ERROR_DEINITIALIZED
+ 05-11-2025 18:25:52:625 [pid=7348 tid=7348] WARN   cufio-px:60 cuMemHostUnregister called for shadow buffer: 0x78fcc4005000 nvbuf: 0x78fcc40044a0 status: 4 error: cuda error: CUDA_ERROR_DEINITIALIZED
+ 05-11-2025 18:25:52:625 [pid=7348 tid=7348] WARN   cufio-px:52 cuStreamDestroy error for posix buffer error num:  4 error:  cuda error: CUDA_ERROR_DEINITIALIZED
+ 05-11-2025 18:25:52:625 [pid=7348 tid=7348] WARN   cufio-px:60 cuMemHostUnregister called for shadow buffer: 0x78fc90014000 nvbuf: 0x78fc90006540 status: 4 error: cuda error: CUDA_ERROR_DEINITIALIZED
+ 05-11-2025 18:25:52:625 [pid=7348 tid=7348] WARN   cufio-px:52 cuStreamDestroy error for posix buffer error num:  4 error:  cuda error: CUDA_ERROR_DEINITIALIZED
+ 05-11-2025 18:25:52:625 [pid=7348 tid=7348] WARN   cufio-px:60 cuMemHostUnregister called for shadow buffer: 0x78fc88005000 nvbuf: 0x78fc88004470 status: 4 error: cuda error: CUDA_ERROR_DEINITIALIZED
+ 05-11-2025 18:26:05:125 [pid=7619 tid=7619] ERROR  0:140 unable to load,  liburcu-bp.so.6 
+
+ 05-11-2025 18:26:05:125 [pid=7619 tid=7619] ERROR  0:140 unable to load,  liburcu-bp.so.1 
+
+ 05-11-2025 18:26:05:266 [pid=7619 tid=7619] WARN   0:169 failed to open /proc/driver/nvidia-fs/devcount  error: No such file or directory
+ 05-11-2025 18:26:05:266 [pid=7619 tid=7619] NOTICE  cufio-drv:830 running in compatible mode
+ 05-11-2025 18:26:05:413 [pid=7619 tid=7619] ERROR  cufio-fs:79 mount option not found in mount table data device: /dev/nvme0n1p2
+ 05-11-2025 18:31:13:877 [pid=7619 tid=7619] WARN   cufio-px:52 cuStreamDestroy error for posix buffer error num:  4 error:  cuda error: CUDA_ERROR_DEINITIALIZED
+ 05-11-2025 18:31:13:877 [pid=7619 tid=7619] WARN   cufio-px:60 cuMemHostUnregister called for shadow buffer: 0x7b426005a000 nvbuf: 0x7b42600044a0 status: 4 error: cuda error: CUDA_ERROR_DEINITIALIZED
+ 05-11-2025 18:31:13:877 [pid=7619 tid=7619] WARN   cufio-px:52 cuStreamDestroy error for posix buffer error num:  4 error:  cuda error: CUDA_ERROR_DEINITIALIZED
+ 05-11-2025 18:31:13:877 [pid=7619 tid=7619] WARN   cufio-px:60 cuMemHostUnregister called for shadow buffer: 0x7b4220012000 nvbuf: 0x7b4220004470 status: 4 error: cuda error: CUDA_ERROR_DEINITIALIZED
+ 05-11-2025 18:31:13:877 [pid=7619 tid=7619] WARN   cufio-px:52 cuStreamDestroy error for posix buffer error num:  4 error:  cuda error: CUDA_ERROR_DEINITIALIZED
+ 05-11-2025 18:31:13:877 [pid=7619 tid=7619] WARN   cufio-px:60 cuMemHostUnregister called for shadow buffer: 0x7b4228005000 nvbuf: 0x7b4228004470 status: 4 error: cuda error: CUDA_ERROR_DEINITIALIZED
+ 05-11-2025 18:31:13:877 [pid=7619 tid=7619] WARN   cufio-px:52 cuStreamDestroy error for posix buffer error num:  4 error:  cuda error: CUDA_ERROR_DEINITIALIZED
+ 05-11-2025 18:31:13:877 [pid=7619 tid=7619] WARN   cufio-px:60 cuMemHostUnregister called for shadow buffer: 0x7b4218007000 nvbuf: 0x7b4218006540 status: 4 error: cuda error: CUDA_ERROR_DEINITIALIZED
+ 05-11-2025 18:31:24:894 [pid=7764 tid=7764] ERROR  0:140 unable to load,  liburcu-bp.so.6 
+
+ 05-11-2025 18:31:24:894 [pid=7764 tid=7764] ERROR  0:140 unable to load,  liburcu-bp.so.1 
+
+ 05-11-2025 18:31:25:39 [pid=7764 tid=7764] WARN   0:169 failed to open /proc/driver/nvidia-fs/devcount  error: No such file or directory
+ 05-11-2025 18:31:25:39 [pid=7764 tid=7764] NOTICE  cufio-drv:830 running in compatible mode
+ 05-11-2025 18:31:25:193 [pid=7764 tid=7764] ERROR  cufio-fs:79 mount option not found in mount table data device: /dev/nvme0n1p2
+ 05-11-2025 19:19:31:485 [pid=8768 tid=8768] ERROR  0:140 unable to load,  liburcu-bp.so.6 
+
+ 05-11-2025 19:19:31:485 [pid=8768 tid=8768] ERROR  0:140 unable to load,  liburcu-bp.so.1 
+
+ 05-11-2025 19:19:31:635 [pid=8768 tid=8768] WARN   0:169 failed to open /proc/driver/nvidia-fs/devcount  error: No such file or directory
+ 05-11-2025 19:19:31:635 [pid=8768 tid=8768] NOTICE  cufio-drv:830 running in compatible mode
+ 05-11-2025 19:19:31:802 [pid=8768 tid=8768] ERROR  cufio-fs:79 mount option not found in mount table data device: /dev/nvme0n1p2
+ 05-11-2025 19:30:43:480 [pid=9041 tid=9041] ERROR  0:140 unable to load,  liburcu-bp.so.6 
+
+ 05-11-2025 19:30:43:480 [pid=9041 tid=9041] ERROR  0:140 unable to load,  liburcu-bp.so.1 
+
+ 05-11-2025 19:30:43:640 [pid=9041 tid=9041] WARN   0:169 failed to open /proc/driver/nvidia-fs/devcount  error: No such file or directory
+ 05-11-2025 19:30:43:640 [pid=9041 tid=9041] NOTICE  cufio-drv:830 running in compatible mode
+ 05-11-2025 19:30:43:789 [pid=9041 tid=9041] ERROR  cufio-fs:79 mount option not found in mount table data device: /dev/nvme0n1p2
+ 05-11-2025 19:34:47:109 [pid=9041 tid=9041] WARN   cufio-px:52 cuStreamDestroy error for posix buffer error num:  4 error:  cuda error: CUDA_ERROR_DEINITIALIZED
+ 05-11-2025 19:34:47:109 [pid=9041 tid=9041] WARN   cufio-px:60 cuMemHostUnregister called for shadow buffer: 0x721b84014000 nvbuf: 0x721b84006570 status: 4 error: cuda error: CUDA_ERROR_DEINITIALIZED
+ 05-11-2025 19:34:47:109 [pid=9041 tid=9041] WARN   cufio-px:52 cuStreamDestroy error for posix buffer error num:  4 error:  cuda error: CUDA_ERROR_DEINITIALIZED
+ 05-11-2025 19:34:47:109 [pid=9041 tid=9041] WARN   cufio-px:60 cuMemHostUnregister called for shadow buffer: 0x721b4405c000 nvbuf: 0x721b44006540 status: 4 error: cuda error: CUDA_ERROR_DEINITIALIZED
+ 05-11-2025 19:34:47:109 [pid=9041 tid=9041] WARN   cufio-px:52 cuStreamDestroy error for posix buffer error num:  4 error:  cuda error: CUDA_ERROR_DEINITIALIZED
+ 05-11-2025 19:34:47:109 [pid=9041 tid=9041] WARN   cufio-px:60 cuMemHostUnregister called for shadow buffer: 0x721b3c007000 nvbuf: 0x721b3c006540 status: 4 error: cuda error: CUDA_ERROR_DEINITIALIZED
+ 05-11-2025 19:34:47:109 [pid=9041 tid=9041] WARN   cufio-px:52 cuStreamDestroy error for posix buffer error num:  4 error:  cuda error: CUDA_ERROR_DEINITIALIZED
+ 05-11-2025 19:34:47:109 [pid=9041 tid=9041] WARN   cufio-px:60 cuMemHostUnregister called for shadow buffer: 0x721b4c005000 nvbuf: 0x721b4c004530 status: 4 error: cuda error: CUDA_ERROR_DEINITIALIZED
+ 05-11-2025 19:35:03:428 [pid=9309 tid=9309] ERROR  0:140 unable to load,  liburcu-bp.so.6 
+
+ 05-11-2025 19:35:03:428 [pid=9309 tid=9309] ERROR  0:140 unable to load,  liburcu-bp.so.1 
+
+ 05-11-2025 19:35:03:584 [pid=9309 tid=9309] WARN   0:169 failed to open /proc/driver/nvidia-fs/devcount  error: No such file or directory
+ 05-11-2025 19:35:03:584 [pid=9309 tid=9309] NOTICE  cufio-drv:830 running in compatible mode
+ 05-11-2025 19:35:03:731 [pid=9309 tid=9309] ERROR  cufio-fs:79 mount option not found in mount table data device: /dev/nvme0n1p2
+ 06-11-2025 07:47:01:889 [pid=24486 tid=24486] ERROR  0:140 unable to load,  liburcu-bp.so.6 
+
+ 06-11-2025 07:47:01:889 [pid=24486 tid=24486] ERROR  0:140 unable to load,  liburcu-bp.so.1 
+
+ 06-11-2025 07:47:02:58 [pid=24486 tid=24486] WARN   0:169 failed to open /proc/driver/nvidia-fs/devcount  error: No such file or directory
+ 06-11-2025 07:47:02:58 [pid=24486 tid=24486] NOTICE  cufio-drv:830 running in compatible mode
+ 06-11-2025 07:47:02:216 [pid=24486 tid=24486] ERROR  cufio-fs:79 mount option not found in mount table data device: /dev/nvme0n1p2
+ 06-11-2025 07:53:30:599 [pid=24939 tid=24939] ERROR  0:140 unable to load,  liburcu-bp.so.6 
+
+ 06-11-2025 07:53:30:599 [pid=24939 tid=24939] ERROR  0:140 unable to load,  liburcu-bp.so.1 
+
+ 06-11-2025 07:53:30:760 [pid=24939 tid=24939] WARN   0:169 failed to open /proc/driver/nvidia-fs/devcount  error: No such file or directory
+ 06-11-2025 07:53:30:760 [pid=24939 tid=24939] NOTICE  cufio-drv:830 running in compatible mode
+ 06-11-2025 07:53:30:928 [pid=24939 tid=24939] ERROR  cufio-fs:79 mount option not found in mount table data device: /dev/nvme0n1p2
+ 06-11-2025 07:54:19:570 [pid=25028 tid=25028] ERROR  0:140 unable to load,  liburcu-bp.so.6 
+
+ 06-11-2025 07:54:19:570 [pid=25028 tid=25028] ERROR  0:140 unable to load,  liburcu-bp.so.1 
+
+ 06-11-2025 07:54:19:730 [pid=25028 tid=25028] WARN   0:169 failed to open /proc/driver/nvidia-fs/devcount  error: No such file or directory
+ 06-11-2025 07:54:19:730 [pid=25028 tid=25028] NOTICE  cufio-drv:830 running in compatible mode
+ 06-11-2025 07:54:19:894 [pid=25028 tid=25028] ERROR  cufio-fs:79 mount option not found in mount table data device: /dev/nvme0n1p2
+ 06-11-2025 08:00:32:276 [pid=25201 tid=25201] ERROR  0:140 unable to load,  liburcu-bp.so.6 
+
+ 06-11-2025 08:00:32:276 [pid=25201 tid=25201] ERROR  0:140 unable to load,  liburcu-bp.so.1 
+
+ 06-11-2025 08:00:32:442 [pid=25201 tid=25201] WARN   0:169 failed to open /proc/driver/nvidia-fs/devcount  error: No such file or directory
+ 06-11-2025 08:00:32:442 [pid=25201 tid=25201] NOTICE  cufio-drv:830 running in compatible mode
+ 06-11-2025 08:00:32:604 [pid=25201 tid=25201] ERROR  cufio-fs:79 mount option not found in mount table data device: /dev/nvme0n1p2
+ 06-11-2025 08:04:54:851 [pid=25342 tid=25342] ERROR  0:140 unable to load,  liburcu-bp.so.6 
+
+ 06-11-2025 08:04:54:851 [pid=25342 tid=25342] ERROR  0:140 unable to load,  liburcu-bp.so.1 
+
+ 06-11-2025 08:04:55:8 [pid=25342 tid=25342] WARN   0:169 failed to open /proc/driver/nvidia-fs/devcount  error: No such file or directory
+ 06-11-2025 08:04:55:9 [pid=25342 tid=25342] NOTICE  cufio-drv:830 running in compatible mode
+ 06-11-2025 08:04:55:175 [pid=25342 tid=25342] ERROR  cufio-fs:79 mount option not found in mount table data device: /dev/nvme0n1p2
+ 06-11-2025 08:25:50:164 [pid=26300 tid=26300] ERROR  0:140 unable to load,  liburcu-bp.so.6 
+
+ 06-11-2025 08:25:50:164 [pid=26300 tid=26300] ERROR  0:140 unable to load,  liburcu-bp.so.1 
+
+ 06-11-2025 08:25:50:322 [pid=26300 tid=26300] WARN   0:169 failed to open /proc/driver/nvidia-fs/devcount  error: No such file or directory
+ 06-11-2025 08:25:50:322 [pid=26300 tid=26300] NOTICE  cufio-drv:830 running in compatible mode
+ 06-11-2025 08:25:50:489 [pid=26300 tid=26300] ERROR  cufio-fs:79 mount option not found in mount table data device: /dev/nvme0n1p2
+ 06-11-2025 08:29:54:548 [pid=9309 tid=9309] WARN   cufio-px:52 cuStreamDestroy error for posix buffer error num:  4 error:  cuda error: CUDA_ERROR_DEINITIALIZED
+ 06-11-2025 08:29:54:548 [pid=9309 tid=9309] WARN   cufio-px:60 cuMemHostUnregister called for shadow buffer: 0x70767c05a000 nvbuf: 0x70767c0044a0 status: 4 error: cuda error: CUDA_ERROR_DEINITIALIZED
+ 06-11-2025 08:29:54:548 [pid=9309 tid=9309] WARN   cufio-px:52 cuStreamDestroy error for posix buffer error num:  4 error:  cuda error: CUDA_ERROR_DEINITIALIZED
+ 06-11-2025 08:29:54:548 [pid=9309 tid=9309] WARN   cufio-px:60 cuMemHostUnregister called for shadow buffer: 0x707640012000 nvbuf: 0x707640004530 status: 4 error: cuda error: CUDA_ERROR_DEINITIALIZED
+ 06-11-2025 08:29:54:548 [pid=9309 tid=9309] WARN   cufio-px:52 cuStreamDestroy error for posix buffer error num:  4 error:  cuda error: CUDA_ERROR_DEINITIALIZED
+ 06-11-2025 08:29:54:548 [pid=9309 tid=9309] WARN   cufio-px:60 cuMemHostUnregister called for shadow buffer: 0x707644005000 nvbuf: 0x707644004470 status: 4 error: cuda error: CUDA_ERROR_DEINITIALIZED
+ 06-11-2025 08:29:54:548 [pid=9309 tid=9309] WARN   cufio-px:52 cuStreamDestroy error for posix buffer error num:  4 error:  cuda error: CUDA_ERROR_DEINITIALIZED
+ 06-11-2025 08:29:54:548 [pid=9309 tid=9309] WARN   cufio-px:60 cuMemHostUnregister called for shadow buffer: 0x707648007000 nvbuf: 0x707648006540 status: 4 error: cuda error: CUDA_ERROR_DEINITIALIZED
+ 06-11-2025 08:30:01:780 [pid=26470 tid=26470] ERROR  0:140 unable to load,  liburcu-bp.so.6 
+
+ 06-11-2025 08:30:01:780 [pid=26470 tid=26470] ERROR  0:140 unable to load,  liburcu-bp.so.1 
+
+ 06-11-2025 08:30:01:937 [pid=26470 tid=26470] WARN   0:169 failed to open /proc/driver/nvidia-fs/devcount  error: No such file or directory
+ 06-11-2025 08:30:01:937 [pid=26470 tid=26470] NOTICE  cufio-drv:830 running in compatible mode
+ 06-11-2025 08:30:02:85 [pid=26470 tid=26470] ERROR  cufio-fs:79 mount option not found in mount table data device: /dev/nvme0n1p2
+ 06-11-2025 08:36:50:62 [pid=27056 tid=27056] ERROR  0:140 unable to load,  liburcu-bp.so.6 
+
+ 06-11-2025 08:36:50:62 [pid=27056 tid=27056] ERROR  0:140 unable to load,  liburcu-bp.so.1 
+
+ 06-11-2025 08:36:50:219 [pid=27056 tid=27056] WARN   0:169 failed to open /proc/driver/nvidia-fs/devcount  error: No such file or directory
+ 06-11-2025 08:36:50:219 [pid=27056 tid=27056] NOTICE  cufio-drv:830 running in compatible mode
+ 06-11-2025 08:36:50:387 [pid=27056 tid=27056] ERROR  cufio-fs:79 mount option not found in mount table data device: /dev/nvme0n1p2
+ 06-11-2025 09:01:50:132 [pid=26470 tid=26470] WARN   cufio-px:52 cuStreamDestroy error for posix buffer error num:  4 error:  cuda error: CUDA_ERROR_DEINITIALIZED
+ 06-11-2025 09:01:50:132 [pid=26470 tid=26470] WARN   cufio-px:60 cuMemHostUnregister called for shadow buffer: 0x799bfc007000 nvbuf: 0x799bfc006570 status: 4 error: cuda error: CUDA_ERROR_DEINITIALIZED
+ 06-11-2025 09:01:50:132 [pid=26470 tid=26470] WARN   cufio-px:52 cuStreamDestroy error for posix buffer error num:  4 error:  cuda error: CUDA_ERROR_DEINITIALIZED
+ 06-11-2025 09:01:50:132 [pid=26470 tid=26470] WARN   cufio-px:60 cuMemHostUnregister called for shadow buffer: 0x799bbc012000 nvbuf: 0x799bbc004470 status: 4 error: cuda error: CUDA_ERROR_DEINITIALIZED
+ 06-11-2025 09:01:50:132 [pid=26470 tid=26470] WARN   cufio-px:52 cuStreamDestroy error for posix buffer error num:  4 error:  cuda error: CUDA_ERROR_DEINITIALIZED
+ 06-11-2025 09:01:50:132 [pid=26470 tid=26470] WARN   cufio-px:60 cuMemHostUnregister called for shadow buffer: 0x799bc405a000 nvbuf: 0x799bc4004470 status: 4 error: cuda error: CUDA_ERROR_DEINITIALIZED
+ 06-11-2025 09:01:50:132 [pid=26470 tid=26470] WARN   cufio-px:52 cuStreamDestroy error for posix buffer error num:  4 error:  cuda error: CUDA_ERROR_DEINITIALIZED
+ 06-11-2025 09:01:50:132 [pid=26470 tid=26470] WARN   cufio-px:60 cuMemHostUnregister called for shadow buffer: 0x799bb4005000 nvbuf: 0x799bb4004470 status: 4 error: cuda error: CUDA_ERROR_DEINITIALIZED
+ 06-11-2025 09:02:02:220 [pid=27951 tid=27951] ERROR  0:140 unable to load,  liburcu-bp.so.6 
+
+ 06-11-2025 09:02:02:220 [pid=27951 tid=27951] ERROR  0:140 unable to load,  liburcu-bp.so.1 
+
+ 06-11-2025 09:02:02:387 [pid=27951 tid=27951] WARN   0:169 failed to open /proc/driver/nvidia-fs/devcount  error: No such file or directory
+ 06-11-2025 09:02:02:388 [pid=27951 tid=27951] NOTICE  cufio-drv:830 running in compatible mode
+ 06-11-2025 09:02:02:546 [pid=27951 tid=27951] ERROR  cufio-fs:79 mount option not found in mount table data device: /dev/nvme0n1p2
+ 06-11-2025 09:07:37:29 [pid=28542 tid=28542] ERROR  0:140 unable to load,  liburcu-bp.so.6 
+
+ 06-11-2025 09:07:37:29 [pid=28542 tid=28542] ERROR  0:140 unable to load,  liburcu-bp.so.1 
+
+ 06-11-2025 09:07:37:189 [pid=28542 tid=28542] WARN   0:169 failed to open /proc/driver/nvidia-fs/devcount  error: No such file or directory
+ 06-11-2025 09:07:37:189 [pid=28542 tid=28542] NOTICE  cufio-drv:830 running in compatible mode
+ 06-11-2025 09:07:37:368 [pid=28542 tid=28542] ERROR  cufio-fs:79 mount option not found in mount table data device: /dev/nvme0n1p2
+ 06-11-2025 09:09:30:922 [pid=28653 tid=28653] ERROR  0:140 unable to load,  liburcu-bp.so.6 
+
+ 06-11-2025 09:09:30:922 [pid=28653 tid=28653] ERROR  0:140 unable to load,  liburcu-bp.so.1 
+
+ 06-11-2025 09:09:31:87 [pid=28653 tid=28653] WARN   0:169 failed to open /proc/driver/nvidia-fs/devcount  error: No such file or directory
+ 06-11-2025 09:09:31:87 [pid=28653 tid=28653] NOTICE  cufio-drv:830 running in compatible mode
+ 06-11-2025 09:09:31:255 [pid=28653 tid=28653] ERROR  cufio-fs:79 mount option not found in mount table data device: /dev/nvme0n1p2
+ 06-11-2025 09:35:45:598 [pid=29235 tid=29235] ERROR  0:140 unable to load,  liburcu-bp.so.6 
+
+ 06-11-2025 09:35:45:598 [pid=29235 tid=29235] ERROR  0:140 unable to load,  liburcu-bp.so.1 
+
+ 06-11-2025 09:35:45:757 [pid=29235 tid=29235] WARN   0:169 failed to open /proc/driver/nvidia-fs/devcount  error: No such file or directory
+ 06-11-2025 09:35:45:757 [pid=29235 tid=29235] NOTICE  cufio-drv:830 running in compatible mode
+ 06-11-2025 09:35:45:922 [pid=29235 tid=29235] ERROR  cufio-fs:79 mount option not found in mount table data device: /dev/nvme0n1p2
+ 06-11-2025 09:38:33:962 [pid=27951 tid=27951] WARN   cufio-px:52 cuStreamDestroy error for posix buffer error num:  4 error:  cuda error: CUDA_ERROR_DEINITIALIZED
+ 06-11-2025 09:38:33:962 [pid=27951 tid=27951] WARN   cufio-px:60 cuMemHostUnregister called for shadow buffer: 0x786e28007000 nvbuf: 0x786e28006540 status: 4 error: cuda error: CUDA_ERROR_DEINITIALIZED
+ 06-11-2025 09:38:33:962 [pid=27951 tid=27951] WARN   cufio-px:52 cuStreamDestroy error for posix buffer error num:  4 error:  cuda error: CUDA_ERROR_DEINITIALIZED
+ 06-11-2025 09:38:33:962 [pid=27951 tid=27951] WARN   cufio-px:60 cuMemHostUnregister called for shadow buffer: 0x786e6005a000 nvbuf: 0x786e60004560 status: 4 error: cuda error: CUDA_ERROR_DEINITIALIZED
+ 06-11-2025 09:38:33:962 [pid=27951 tid=27951] WARN   cufio-px:52 cuStreamDestroy error for posix buffer error num:  4 error:  cuda error: CUDA_ERROR_DEINITIALIZED
+ 06-11-2025 09:38:33:962 [pid=27951 tid=27951] WARN   cufio-px:60 cuMemHostUnregister called for shadow buffer: 0x786e2c005000 nvbuf: 0x786e2c004470 status: 4 error: cuda error: CUDA_ERROR_DEINITIALIZED
+ 06-11-2025 09:38:33:962 [pid=27951 tid=27951] WARN   cufio-px:52 cuStreamDestroy error for posix buffer error num:  4 error:  cuda error: CUDA_ERROR_DEINITIALIZED
+ 06-11-2025 09:38:33:962 [pid=27951 tid=27951] WARN   cufio-px:60 cuMemHostUnregister called for shadow buffer: 0x786e20014000 nvbuf: 0x786e20006540 status: 4 error: cuda error: CUDA_ERROR_DEINITIALIZED
+ 06-11-2025 09:38:44:582 [pid=29418 tid=29418] ERROR  0:140 unable to load,  liburcu-bp.so.6 
+
+ 06-11-2025 09:38:44:582 [pid=29418 tid=29418] ERROR  0:140 unable to load,  liburcu-bp.so.1 
+
+ 06-11-2025 09:38:44:739 [pid=29418 tid=29418] WARN   0:169 failed to open /proc/driver/nvidia-fs/devcount  error: No such file or directory
+ 06-11-2025 09:38:44:739 [pid=29418 tid=29418] NOTICE  cufio-drv:830 running in compatible mode
+ 06-11-2025 09:38:44:884 [pid=29418 tid=29418] ERROR  cufio-fs:79 mount option not found in mount table data device: /dev/nvme0n1p2
+ 06-11-2025 09:51:53:693 [pid=30837 tid=30837] ERROR  0:140 unable to load,  liburcu-bp.so.6 
+
+ 06-11-2025 09:51:53:693 [pid=30837 tid=30837] ERROR  0:140 unable to load,  liburcu-bp.so.1 
+
+ 06-11-2025 09:51:53:856 [pid=30837 tid=30837] WARN   0:169 failed to open /proc/driver/nvidia-fs/devcount  error: No such file or directory
+ 06-11-2025 09:51:53:856 [pid=30837 tid=30837] NOTICE  cufio-drv:830 running in compatible mode
+ 06-11-2025 09:51:54:8 [pid=30837 tid=30837] ERROR  cufio-fs:79 mount option not found in mount table data device: /dev/nvme0n1p2
+ 06-11-2025 10:00:06:915 [pid=30837 tid=30837] WARN   cufio-px:52 cuStreamDestroy error for posix buffer error num:  4 error:  cuda error: CUDA_ERROR_DEINITIALIZED
+ 06-11-2025 10:00:06:915 [pid=30837 tid=30837] WARN   cufio-px:60 cuMemHostUnregister called for shadow buffer: 0x73565005a000 nvbuf: 0x735650004470 status: 4 error: cuda error: CUDA_ERROR_DEINITIALIZED
+ 06-11-2025 10:00:06:915 [pid=30837 tid=30837] WARN   cufio-px:52 cuStreamDestroy error for posix buffer error num:  4 error:  cuda error: CUDA_ERROR_DEINITIALIZED
+ 06-11-2025 10:00:06:915 [pid=30837 tid=30837] WARN   cufio-px:60 cuMemHostUnregister called for shadow buffer: 0x735658012000 nvbuf: 0x735658004470 status: 4 error: cuda error: CUDA_ERROR_DEINITIALIZED
+ 06-11-2025 10:00:06:915 [pid=30837 tid=30837] WARN   cufio-px:52 cuStreamDestroy error for posix buffer error num:  4 error:  cuda error: CUDA_ERROR_DEINITIALIZED
+ 06-11-2025 10:00:06:915 [pid=30837 tid=30837] WARN   cufio-px:60 cuMemHostUnregister called for shadow buffer: 0x735698005000 nvbuf: 0x7356980044a0 status: 4 error: cuda error: CUDA_ERROR_DEINITIALIZED
+ 06-11-2025 10:00:06:915 [pid=30837 tid=30837] WARN   cufio-px:52 cuStreamDestroy error for posix buffer error num:  4 error:  cuda error: CUDA_ERROR_DEINITIALIZED
+ 06-11-2025 10:00:06:915 [pid=30837 tid=30837] WARN   cufio-px:60 cuMemHostUnregister called for shadow buffer: 0x73566c007000 nvbuf: 0x73566c006540 status: 4 error: cuda error: CUDA_ERROR_DEINITIALIZED
+ 06-11-2025 10:06:52:230 [pid=31433 tid=31433] ERROR  0:140 unable to load,  liburcu-bp.so.6 
+
+ 06-11-2025 10:06:52:230 [pid=31433 tid=31433] ERROR  0:140 unable to load,  liburcu-bp.so.1 
+
+ 06-11-2025 10:06:52:385 [pid=31433 tid=31433] WARN   0:169 failed to open /proc/driver/nvidia-fs/devcount  error: No such file or directory
+ 06-11-2025 10:06:52:385 [pid=31433 tid=31433] NOTICE  cufio-drv:830 running in compatible mode
+ 06-11-2025 10:06:52:551 [pid=31433 tid=31433] ERROR  cufio-fs:79 mount option not found in mount table data device: /dev/nvme0n1p2
+ 06-11-2025 10:09:26:238 [pid=29418 tid=29418] WARN   cufio-px:52 cuStreamDestroy error for posix buffer error num:  4 error:  cuda error: CUDA_ERROR_DEINITIALIZED
+ 06-11-2025 10:09:26:238 [pid=29418 tid=29418] WARN   cufio-px:60 cuMemHostUnregister called for shadow buffer: 0x7d1d40005000 nvbuf: 0x7d1d40004530 status: 4 error: cuda error: CUDA_ERROR_DEINITIALIZED
+ 06-11-2025 10:09:26:238 [pid=29418 tid=29418] WARN   cufio-px:52 cuStreamDestroy error for posix buffer error num:  4 error:  cuda error: CUDA_ERROR_DEINITIALIZED
+ 06-11-2025 10:09:26:238 [pid=29418 tid=29418] WARN   cufio-px:60 cuMemHostUnregister called for shadow buffer: 0x7d1d30012000 nvbuf: 0x7d1d30004470 status: 4 error: cuda error: CUDA_ERROR_DEINITIALIZED
+ 06-11-2025 10:09:26:238 [pid=29418 tid=29418] WARN   cufio-px:52 cuStreamDestroy error for posix buffer error num:  4 error:  cuda error: CUDA_ERROR_DEINITIALIZED
+ 06-11-2025 10:09:26:238 [pid=29418 tid=29418] WARN   cufio-px:60 cuMemHostUnregister called for shadow buffer: 0x7d1d6c05a000 nvbuf: 0x7d1d6c0044a0 status: 4 error: cuda error: CUDA_ERROR_DEINITIALIZED
+ 06-11-2025 10:09:26:238 [pid=29418 tid=29418] WARN   cufio-px:52 cuStreamDestroy error for posix buffer error num:  4 error:  cuda error: CUDA_ERROR_DEINITIALIZED
+ 06-11-2025 10:09:26:238 [pid=29418 tid=29418] WARN   cufio-px:60 cuMemHostUnregister called for shadow buffer: 0x7d1d28007000 nvbuf: 0x7d1d28006540 status: 4 error: cuda error: CUDA_ERROR_DEINITIALIZED
+ 06-11-2025 10:10:21:610 [pid=32113 tid=32113] ERROR  0:140 unable to load,  liburcu-bp.so.6 
+
+ 06-11-2025 10:10:21:610 [pid=32113 tid=32113] ERROR  0:140 unable to load,  liburcu-bp.so.1 
+
+ 06-11-2025 10:10:21:761 [pid=32113 tid=32113] WARN   0:169 failed to open /proc/driver/nvidia-fs/devcount  error: No such file or directory
+ 06-11-2025 10:10:21:761 [pid=32113 tid=32113] NOTICE  cufio-drv:830 running in compatible mode
+ 06-11-2025 10:10:21:914 [pid=32113 tid=32113] ERROR  cufio-fs:79 mount option not found in mount table data device: /dev/nvme0n1p2
+ 06-11-2025 10:27:19:340 [pid=32954 tid=32954] ERROR  0:140 unable to load,  liburcu-bp.so.6 
+
+ 06-11-2025 10:27:19:340 [pid=32954 tid=32954] ERROR  0:140 unable to load,  liburcu-bp.so.1 
+
+ 06-11-2025 10:27:19:496 [pid=32954 tid=32954] WARN   0:169 failed to open /proc/driver/nvidia-fs/devcount  error: No such file or directory
+ 06-11-2025 10:27:19:496 [pid=32954 tid=32954] NOTICE  cufio-drv:830 running in compatible mode
+ 06-11-2025 10:27:19:661 [pid=32954 tid=32954] ERROR  cufio-fs:79 mount option not found in mount table data device: /dev/nvme0n1p2
+ 06-11-2025 10:32:34:932 [pid=32113 tid=32113] WARN   cufio-px:52 cuStreamDestroy error for posix buffer error num:  4 error:  cuda error: CUDA_ERROR_DEINITIALIZED
+ 06-11-2025 10:32:34:932 [pid=32113 tid=32113] WARN   cufio-px:60 cuMemHostUnregister called for shadow buffer: 0x752dcc05a000 nvbuf: 0x752dcc004470 status: 4 error: cuda error: CUDA_ERROR_DEINITIALIZED
+ 06-11-2025 10:32:34:932 [pid=32113 tid=32113] WARN   cufio-px:52 cuStreamDestroy error for posix buffer error num:  4 error:  cuda error: CUDA_ERROR_DEINITIALIZED
+ 06-11-2025 10:32:34:932 [pid=32113 tid=32113] WARN   cufio-px:60 cuMemHostUnregister called for shadow buffer: 0x752dd0007000 nvbuf: 0x752dd0006540 status: 4 error: cuda error: CUDA_ERROR_DEINITIALIZED
+ 06-11-2025 10:32:34:932 [pid=32113 tid=32113] WARN   cufio-px:52 cuStreamDestroy error for posix buffer error num:  4 error:  cuda error: CUDA_ERROR_DEINITIALIZED
+ 06-11-2025 10:32:34:932 [pid=32113 tid=32113] WARN   cufio-px:60 cuMemHostUnregister called for shadow buffer: 0x752e04012000 nvbuf: 0x752e040044a0 status: 4 error: cuda error: CUDA_ERROR_DEINITIALIZED
+ 06-11-2025 10:32:34:932 [pid=32113 tid=32113] WARN   cufio-px:52 cuStreamDestroy error for posix buffer error num:  4 error:  cuda error: CUDA_ERROR_DEINITIALIZED
+ 06-11-2025 10:32:34:932 [pid=32113 tid=32113] WARN   cufio-px:60 cuMemHostUnregister called for shadow buffer: 0x752dc8005000 nvbuf: 0x752dc8004470 status: 4 error: cuda error: CUDA_ERROR_DEINITIALIZED
+ 06-11-2025 10:32:45:909 [pid=33790 tid=33790] ERROR  0:140 unable to load,  liburcu-bp.so.6 
+
+ 06-11-2025 10:32:45:909 [pid=33790 tid=33790] ERROR  0:140 unable to load,  liburcu-bp.so.1 
+
+ 06-11-2025 10:32:46:63 [pid=33790 tid=33790] WARN   0:169 failed to open /proc/driver/nvidia-fs/devcount  error: No such file or directory
+ 06-11-2025 10:32:46:63 [pid=33790 tid=33790] NOTICE  cufio-drv:830 running in compatible mode
+ 06-11-2025 10:32:46:209 [pid=33790 tid=33790] ERROR  cufio-fs:79 mount option not found in mount table data device: /dev/nvme0n1p2
+ 06-11-2025 10:40:45:742 [pid=33790 tid=33790] WARN   cufio-px:52 cuStreamDestroy error for posix buffer error num:  4 error:  cuda error: CUDA_ERROR_DEINITIALIZED
+ 06-11-2025 10:40:45:742 [pid=33790 tid=33790] WARN   cufio-px:60 cuMemHostUnregister called for shadow buffer: 0x7c77d805a000 nvbuf: 0x7c77d80044a0 status: 4 error: cuda error: CUDA_ERROR_DEINITIALIZED
+ 06-11-2025 10:40:45:742 [pid=33790 tid=33790] WARN   cufio-px:52 cuStreamDestroy error for posix buffer error num:  4 error:  cuda error: CUDA_ERROR_DEINITIALIZED
+ 06-11-2025 10:40:45:742 [pid=33790 tid=33790] WARN   cufio-px:60 cuMemHostUnregister called for shadow buffer: 0x7c779c005000 nvbuf: 0x7c779c004470 status: 4 error: cuda error: CUDA_ERROR_DEINITIALIZED
+ 06-11-2025 10:40:45:742 [pid=33790 tid=33790] WARN   cufio-px:52 cuStreamDestroy error for posix buffer error num:  4 error:  cuda error: CUDA_ERROR_DEINITIALIZED
+ 06-11-2025 10:40:45:742 [pid=33790 tid=33790] WARN   cufio-px:60 cuMemHostUnregister called for shadow buffer: 0x7c77a4012000 nvbuf: 0x7c77a4004470 status: 4 error: cuda error: CUDA_ERROR_DEINITIALIZED
+ 06-11-2025 10:40:45:742 [pid=33790 tid=33790] WARN   cufio-px:52 cuStreamDestroy error for posix buffer error num:  4 error:  cuda error: CUDA_ERROR_DEINITIALIZED
+ 06-11-2025 10:40:45:742 [pid=33790 tid=33790] WARN   cufio-px:60 cuMemHostUnregister called for shadow buffer: 0x7c7794007000 nvbuf: 0x7c7794006540 status: 4 error: cuda error: CUDA_ERROR_DEINITIALIZED
+ 06-11-2025 10:41:38:493 [pid=34861 tid=34861] ERROR  0:140 unable to load,  liburcu-bp.so.6 
+
+ 06-11-2025 10:41:38:493 [pid=34861 tid=34861] ERROR  0:140 unable to load,  liburcu-bp.so.1 
+
+ 06-11-2025 10:41:38:644 [pid=34861 tid=34861] WARN   0:169 failed to open /proc/driver/nvidia-fs/devcount  error: No such file or directory
+ 06-11-2025 10:41:38:644 [pid=34861 tid=34861] NOTICE  cufio-drv:830 running in compatible mode
+ 06-11-2025 10:41:38:788 [pid=34861 tid=34861] ERROR  cufio-fs:79 mount option not found in mount table data device: /dev/nvme0n1p2
+ 06-11-2025 12:15:23:711 [pid=34861 tid=34861] WARN   cufio-px:52 cuStreamDestroy error for posix buffer error num:  4 error:  cuda error: CUDA_ERROR_DEINITIALIZED
+ 06-11-2025 12:15:23:711 [pid=34861 tid=34861] WARN   cufio-px:60 cuMemHostUnregister called for shadow buffer: 0x7fda1c05a000 nvbuf: 0x7fda1c004470 status: 4 error: cuda error: CUDA_ERROR_DEINITIALIZED
+ 06-11-2025 12:15:23:711 [pid=34861 tid=34861] WARN   cufio-px:52 cuStreamDestroy error for posix buffer error num:  4 error:  cuda error: CUDA_ERROR_DEINITIALIZED
+ 06-11-2025 12:15:23:711 [pid=34861 tid=34861] WARN   cufio-px:60 cuMemHostUnregister called for shadow buffer: 0x7fda04007000 nvbuf: 0x7fda04006540 status: 4 error: cuda error: CUDA_ERROR_DEINITIALIZED
+ 06-11-2025 12:15:23:711 [pid=34861 tid=34861] WARN   cufio-px:52 cuStreamDestroy error for posix buffer error num:  4 error:  cuda error: CUDA_ERROR_DEINITIALIZED
+ 06-11-2025 12:15:23:711 [pid=34861 tid=34861] WARN   cufio-px:60 cuMemHostUnregister called for shadow buffer: 0x7fda4c012000 nvbuf: 0x7fda4c0044a0 status: 4 error: cuda error: CUDA_ERROR_DEINITIALIZED
+ 06-11-2025 12:15:23:711 [pid=34861 tid=34861] WARN   cufio-px:52 cuStreamDestroy error for posix buffer error num:  4 error:  cuda error: CUDA_ERROR_DEINITIALIZED
+ 06-11-2025 12:15:23:711 [pid=34861 tid=34861] WARN   cufio-px:60 cuMemHostUnregister called for shadow buffer: 0x7fda0c005000 nvbuf: 0x7fda0c004470 status: 4 error: cuda error: CUDA_ERROR_DEINITIALIZED
+ 06-11-2025 12:15:32:936 [pid=38715 tid=38715] ERROR  0:140 unable to load,  liburcu-bp.so.6 
+
+ 06-11-2025 12:15:32:936 [pid=38715 tid=38715] ERROR  0:140 unable to load,  liburcu-bp.so.1 
+
+ 06-11-2025 12:15:33:90 [pid=38715 tid=38715] WARN   0:169 failed to open /proc/driver/nvidia-fs/devcount  error: No such file or directory
+ 06-11-2025 12:15:33:90 [pid=38715 tid=38715] NOTICE  cufio-drv:830 running in compatible mode
+ 06-11-2025 12:15:33:237 [pid=38715 tid=38715] ERROR  cufio-fs:79 mount option not found in mount table data device: /dev/nvme0n1p2

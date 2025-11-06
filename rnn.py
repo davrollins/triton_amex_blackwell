@@ -1,7 +1,7 @@
 import os
 import numpy as np
 from torch import nn
-import pytorch_lightning as pl
+import lightning.pytorch as L
 from torch.nn import functional as F
 from torch.utils.data import DataLoader, Dataset
 from random import randint
@@ -174,7 +174,7 @@ class TestRnnDataset(RnnDataset):
         xo,_ = self._pad(self.data_orig[s:e][:,self.yids])
         return toT(x),toT(xo)
     
-class RNN(pl.LightningModule):
+class RNN(L.LightningModule):
     def __init__(self, x_dim, y_dim, config):
         super(RNN, self).__init__()        
         
